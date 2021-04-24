@@ -52,7 +52,7 @@ input[type="submit"],
 input[type="reset"] {
   font-size: 1.25rem;
   padding: .5rem 2rem;
-  border: solid 1px #a62a01;
+  border: solid 1px white;
   background-color: var(--primary-color);
   color: white;
 }
