@@ -1,8 +1,8 @@
 :root {
   --font-size: 16px;
-  --primary-color: black; /* color para cyber */
-  --dark-color: #2a7bf5; /* color barra nav arriba del todo*/
-  --light-color: black; /*color para front*/
+  --primary-color: white; /* color para cyber */
+  --dark-color: #E5FEFD; /* color barra nav arriba del todo*/
+  --light-color: white; /*color para front*/
 
   --md-break: 480px;
   --lg-break: 1024px;
