@@ -52,9 +52,9 @@ input[type="submit"],
 input[type="reset"] {
   font-size: 1.25rem;
   padding: .5rem 2rem;
-  border: solid 1px white;
+  border: solid 1px #AEFFFF; /*color fono boton enviar*/
   background-color: var(--primary-color);
-  color: white;
+  color: black; /*color letra "enviar" */
 }
 
 /* Personalización del checkbox */
