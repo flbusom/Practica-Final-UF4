@@ -1,7 +1,7 @@
 :root {
   --font-size: 16px;
-  --primary-color: white; /* color para cyber */
-  --dark-color: #E5FEFD; /* color barra nav arriba del todo*/
+  /*--primary-color: white; /* color para cyber */
+  --dark-color: #01CAC4; /* color barra nav arriba del todo*/
   --light-color: white; /*color para front*/
 
   --md-break: 480px;
