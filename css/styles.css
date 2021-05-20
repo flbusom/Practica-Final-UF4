@@ -11,7 +11,7 @@ html {
 }
 
 body {
-  background-color: black;
+  background-color: #0299D2; /* color background general*/
   color: var(--light-color);
 }
 

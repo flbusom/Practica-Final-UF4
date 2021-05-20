@@ -1,5 +1,5 @@
 .header {
-  background: url("../img/bg.jpg") bottom center;
+  background: url("../img/bg3.jpg") bottom center;
   background-size: cover;
   height: 100vh;
 
@@ -30,7 +30,7 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background-color: black;
+  background-color: #7611FF;
   background: url("../img/simple-pattern-overlay.png") top left repeat;
   opacity: 0.5;
   z-index: 31;
